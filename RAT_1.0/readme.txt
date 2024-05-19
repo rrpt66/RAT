@@ -5,3 +5,8 @@
 5 see ip and port in discord bot
 6 type ip and port in rat.exe
 7 Enjoy
+
+
+
+
+19/5/2024 + Run on Startup
