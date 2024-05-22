@@ -7,6 +7,7 @@
 7 Enjoy
 
 
+Suggestion: It's smoother, I recommend using winrar to merge two files into one file and to hide the .txt file.
 
 
 19/5/2024 + Run on Startup
