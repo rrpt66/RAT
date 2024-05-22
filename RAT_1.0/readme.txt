@@ -11,3 +11,4 @@ Suggestion: It's smoother, I recommend using winrar to merge two files into one 
 
 
 19/5/2024 + Run on Startup
+22/5/2024 + Task Manager process kill
