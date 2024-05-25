@@ -2,7 +2,7 @@
 2 send server.exe and webhook.txt to target
 3 open rat.exe
 4 wait for target run file 
-5 see ip and port in discord bot
+5 Wait ip and port in discord bot
 6 type ip and port in rat.exe
 7 wait Server Connected
 8 Enjoy
