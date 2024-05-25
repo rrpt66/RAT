@@ -13,4 +13,4 @@ Suggestion: It's smoother, I recommend using winrar to merge two files into one 
 19/5/2024 + Run on Startup
 22/5/2024 + Task Manager process kill
 25/5/2024 + Anti debug
-25/5/2024 + server.exe add runtime.exe
+25/5/2024 + Fast command result in cmd when remote Another PC
