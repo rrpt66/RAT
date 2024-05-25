@@ -1,4 +1,4 @@
-1 edit webhook in webhook.txt and Use MERG.exe
+1 edit webhook in webhook.txt and Use MERG.exe IF File webhook.txt is missing You can close MERG.exe now.
 2 send server.exe and webhook.txt to target
 3 open rat.exe
 4 wait for target run file 
@@ -8,7 +8,7 @@
 8 Enjoy
 
 How To Disconnect Server: Type terminate in Rat.exe TO Disconnect
-Suggestion: It's smoother, I recommend using winrar to merge two files into one file and to hide the .txt file
+Suggestion: It's smoother, I recommend using winrar to merge two files into one file and to hide the .txt file 
 
 
 19/5/2024 + Run on Startup
